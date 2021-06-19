@@ -1,0 +1,16 @@
+{
+    "name": "user/a",
+    "description": "UTS Praktikum Pemrograman Berbasis Web Lanjutan",
+    "autoload": {
+        "psr-4": {
+            "User\\A\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zulfikar Shidiq",
+            "email": "zulfikar17800@gmail.com"
+        }
+    ],
+    "require": {}
+}
